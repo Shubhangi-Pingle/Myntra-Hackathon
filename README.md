@@ -25,14 +25,14 @@ The repository is organized as follows:
 <h3>research:</h3> Includes Jupyter notebooks used for determining the number of clusters and training the autoencoder.
 <h3>images:</h3> Contains "original_images" and "segmented_images" directories for the respective types of images.
 <h3>python scripts:</h3> Series of Python files for each pipeline step, executed in the following order:
-<p>
+<pre>
  1.Preprocessing.py
  2.Image_Download.py
- 3.image_segmentation.py
- 4.latent_space_creator.py
- 5.latent_space_clustering.py
+ 3.Segmentation.py
+ 4.Creation_Latent_Spave.py
+ 5.Image_Clustering.py
  6.Dashboard: Contains the Power BI dashboard file.
-</p>
+</pre>
 How to Use
 To use this project, execute the Python scripts in the specified order.
 
