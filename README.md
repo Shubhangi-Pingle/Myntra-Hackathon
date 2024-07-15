@@ -46,7 +46,7 @@ AdaBoost: Algorithm for sentiment analysis.
 PowerBI: Tool for data visualization and dashboard creation.
 </pre>
 
-<h2>Installation</h2>h2>
+<h2>Installation</h2>
 Clone the repository:
 <pre>
 bash
@@ -55,7 +55,7 @@ git clone https://github.com/Shubhangi-Pingle/Myntra-Hackathon.git
 cd Myntra-Hackathon
 </pre>
 
-<h3>Execute the Python scripts in order:</h3>h3>
+<h3>Execute the Python scripts in order:</h3>
 
 bash
 Copy code
