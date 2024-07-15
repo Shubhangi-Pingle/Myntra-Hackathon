@@ -24,7 +24,7 @@ The repository is organized as follows:
 <h3>models:</h3> Holds the machine learning models' weights (excluding the large SAM model).
 <h3>research:</h3> Includes Jupyter notebooks used for determining the number of clusters and training the autoencoder.
 <h3>images:</h3> Contains "original_images" and "segmented_images" directories for the respective types of images.
-<h3>python scripts:</h3> Series of Python files for each pipeline step, executed in the following order:
+<h3>Python scripts:</h3> Series of Python files for each pipeline step, executed in the following order:
 <pre>
  1.Preprocessing.py
  2.Image_Download.py
@@ -36,12 +36,13 @@ The repository is organized as follows:
 How to Use
 To use this project, execute the Python scripts in the specified order.
 
-Technologies Used
-Python: The primary programming language used for the project.
+<h2>Technologies Used</h2>
+<pre></pre>Python: The primary programming language used for the project.
 YOLO & SAM: Algorithms for image segmentation.
 PCA & KMeans: Techniques for dimensionality reduction and clustering.
 AdaBoost: Algorithm for sentiment analysis.
 PowerBI: Tool for data visualization and dashboard creation.
+</pre>
 Installation
 Clone the repository:
 
