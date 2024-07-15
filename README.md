@@ -16,6 +16,7 @@ Our project follows a structured approach:
 <h3>Sentiment Analysis:</h3> Comments associated with each post are analyzed using the AdaBoost algorithm to determine public sentiment towards the fashion styles.
 
 <h3>Data Visualization:</h3> A Power BI dashboard displays statistics for each cluster, including the number of images, likes, comments, and sentiment distribution.
+PowerBI dashboard added into thedashboard_renner.pbix file.
 
 <h2>Repository Structure</h2>
 The repository is organized as follows:
@@ -44,7 +45,8 @@ PCA & KMeans: Techniques for dimensionality reduction and clustering.
 AdaBoost: Algorithm for sentiment analysis.
 PowerBI: Tool for data visualization and dashboard creation.
 </pre>
-Installation
+
+<h2>Installation</h2>h2>
 Clone the repository:
 <pre>
 bash
@@ -53,7 +55,7 @@ git clone https://github.com/Shubhangi-Pingle/Myntra-Hackathon.git
 cd Myntra-Hackathon
 </pre>
 
-Execute the Python scripts in order:
+<h3>Execute the Python scripts in order:</h3>h3>
 
 bash
 Copy code
