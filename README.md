@@ -16,7 +16,7 @@ Our project follows a structured approach:
 <h3>Sentiment Analysis:</h3> Comments associated with each post are analyzed using the AdaBoost algorithm to determine public sentiment towards the fashion styles.
 
 <h3>Data Visualization:</h3> A Power BI dashboard displays statistics for each cluster, including the number of images, likes, comments, and sentiment distribution.
-PowerBI dashboard added into thedashboard_renner.pbix file.
+PowerBI dashboard added into the dashboard_renner.pbix file.
 
 <h2>Repository Structure</h2>
 The repository is organized as follows:
