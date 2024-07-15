@@ -58,9 +58,9 @@ Execute the Python scripts in order:
 bash
 Copy code
 <pre>
-python data_preprocessing.py
-python download_images.py
-python image_segmentation.py
-python latent_space_creator.py
-python latent_space_clustering.py
+python Preprocessing.py
+python Image_Download.py
+python Segmentation.py
+python Creation_Latent_Spave.py
+python Image_Clustering.py
 </pre>
