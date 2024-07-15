@@ -37,7 +37,8 @@ How to Use
 To use this project, execute the Python scripts in the specified order.
 
 <h2>Technologies Used</h2>
-<pre></pre>Python: The primary programming language used for the project.
+<pre>
+Python: The primary programming language used for the project.
 YOLO & SAM: Algorithms for image segmentation.
 PCA & KMeans: Techniques for dimensionality reduction and clustering.
 AdaBoost: Algorithm for sentiment analysis.
@@ -48,16 +49,18 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/macedoti13/Future-Fashion-Trends-Forecasting.git
-cd Future-Fashion-Trends-Forecasting
+git clone https://github.com/Shubhangi-Pingle/Myntra-Hackathon.git
+cd Myntra-Hackathon
 Install the required dependencies:
 
 Execute the Python scripts in order:
 
 bash
 Copy code
+<pre>
 python data_preprocessing.py
 python download_images.py
 python image_segmentation.py
 python latent_space_creator.py
 python latent_space_clustering.py
+</pre>
