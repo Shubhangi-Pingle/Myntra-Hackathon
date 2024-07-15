@@ -46,12 +46,12 @@ PowerBI: Tool for data visualization and dashboard creation.
 </pre>
 Installation
 Clone the repository:
-
+<pre>
 bash
 Copy code
 git clone https://github.com/Shubhangi-Pingle/Myntra-Hackathon.git
 cd Myntra-Hackathon
-Install the required dependencies:
+</pre>
 
 Execute the Python scripts in order:
 
