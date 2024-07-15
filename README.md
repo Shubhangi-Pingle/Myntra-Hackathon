@@ -1,8 +1,8 @@
 <h1>AI-Driven Fashion Trend Forecasting</h1>
-Overview
+
 This project is designed to predict upcoming fashion trends by analyzing Instagram posts. It leverages a combination of machine learning, image processing, and sentiment analysis to identify similar fashion styles and gauge public sentiment.
 
-Methodology
+<h2>Methodology</h2>
 Our project follows a structured approach:
 
 Data Collection: We collect data from Instagram using the Apify platform, including images, likes, comments, and a sample of 20 comments per post.
